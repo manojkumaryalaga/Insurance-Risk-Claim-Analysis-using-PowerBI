@@ -104,6 +104,3 @@ Calculated fields and DAX measures:
 
 ---
 
-## Author
-Manoj Kumar Yalaga  
-Data Analyst | Power BI & Python Enthusiast
