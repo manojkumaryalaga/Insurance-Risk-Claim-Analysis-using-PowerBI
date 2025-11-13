@@ -84,8 +84,7 @@ Calculated fields and DAX measures:
 
 ## Insurance Dashboard 
 ---
-![Dashboard Screenshot](./Screenshot%20(132).png)
-
+![Insurance Dashboard](./Dashboard%20Screenshot/Screenshot%20(132).png)
 
 ---
 
